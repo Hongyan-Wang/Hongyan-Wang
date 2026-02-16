@@ -1,9 +1,9 @@
 # Yvonne Wang (Hongyan Wang)
 
-Computational modelling and optimisation researcher specialising in mathematical modelling, validation, and constrained search for complex real-world systems.
-🔗 **[LinkedIn](https://www.linkedin.com/in/hongyan-wang18/)**. 
-📧 hongyan.wang118@gmail.com   
-📍 London, UK    
+Computational modelling and optimisation researcher specialising in mathematical modelling, validation, and constrained search for complex real-world systems. <br>
+🔗 **[LinkedIn](https://www.linkedin.com/in/hongyan-wang18/)** <br>
+📧 hongyan.wang118@gmail.com <br>
+📍 London, UK <br>
 
 ---
 
@@ -17,8 +17,10 @@ Computational modelling and optimisation researcher specialising in mathematical
 
 Nonlinear material modelling, automated validation pipelines, and inverse structural design.
 
-![Flowchart](Imperial_College_London_RA/figures/flowchart.png)
-
+![Flowchart]
+<p align="center">
+  <img src="Imperial_College_London_RA/figures/flowchart.png" width="50%">
+</p>
 ➡️ [Detailed description](Imperial_College_London_RA/ImperialCollegeLondon_RA.md)
 
 ---
@@ -30,8 +32,14 @@ Nonlinear material modelling, automated validation pipelines, and inverse struct
 
 Graph-based routing and combinatorial optimisation for automated aircraft cable layout.
 
-![Flowchart](University_of_Southampton_RA/figures/CablePy_FlowChart.png)
-![Demo](University_of_Southampton_RA/figures/Demo-1.png)
+![Flowchart]
+<p align="center">
+  <img src="University_of_Southampton_RA/figures/CablePy_FlowChart.png" width="50%">
+</p>
+![Demo]
+<p align="center">
+  <img src="University_of_Southampton_RA/figures/Demo-1.png" width="80%">
+</p>
 ➡️ [Detailed description](University_of_Southampton_RA/University_of_Southampton_RA.md)
 
 ---
@@ -45,11 +53,20 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
 **Flowchart**
-![Flowchart](Imperial_College_London_phd/figures/Phd_FlowChart2.png)
+![Flowchart]
+<p align="center">
+  <img src="Imperial_College_London_phd/figures/Phd_FlowChart2.png" width="60%">
+</p>
 **Model Structure**
-![ModelStructure](Imperial_College_London_phd/figures/CFRP_model_structure.png)
+![ModelStructure]
+<p align="center">
+  <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" width="50%">
+</p>
 **Subroutine Structure**
-![SubroutineStructure](Imperial_College_London_phd/figures/subroutine_structure.png)
+![SubroutineStructure]
+<p align="center">
+  <img src="Imperial_College_London_phd/figures/subroutine_structure.png" width="70%">
+</p>
 ➡️ [Detailed description](Imperial_College_London_phd/phd.md)
 
 ---
@@ -70,7 +87,7 @@ Loan default prediction using machine learning models and statistical evaluation
 ---
 
 ## Publications
-Full list: https://scholar.google.com
+[Full list](https://scholar.google.com/citations?hl=en&user=eeg-D8QAAAAJ&view_op=list_works&authuser=1)
 
 **Publications**
 1. H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under open-hole tension and compression. The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composite. Vienna, Austria.  
