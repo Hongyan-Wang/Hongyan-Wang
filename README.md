@@ -19,8 +19,9 @@ Nonlinear material modelling, automated validation pipelines, and inverse struct
 
 ![Flowchart]
 <p align="center">
-  <img src="Imperial_College_London_RA/figures/flowchart.png" width="50%">
+  <img src="Imperial_College_London_RA/figures/flowchart.png" width="60%">
 </p>
+
 ➡️ [Detailed description](Imperial_College_London_RA/ImperialCollegeLondon_RA.md)
 
 ---
@@ -34,7 +35,7 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 ![Flowchart]
 <p align="center">
-  <img src="University_of_Southampton_RA/figures/CablePy_FlowChart.png" width="50%">
+  <img src="University_of_Southampton_RA/figures/CablePy_FlowChart.png" width="65%">
 </p>
 ![Demo]
 <p align="center">
@@ -60,7 +61,7 @@ Predictive modelling of material behaviour and manufacturing process optimisatio
 **Model Structure**
 ![ModelStructure]
 <p align="center">
-  <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" width="50%">
+  <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" width="65%">
 </p>
 **Subroutine Structure**
 ![SubroutineStructure]
