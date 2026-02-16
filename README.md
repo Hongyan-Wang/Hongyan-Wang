@@ -1,10 +1,9 @@
 # Yvonne Wang (Hongyan Wang)
 
 Computational modelling and optimisation researcher specialising in mathematical modelling, validation, and constrained search for complex real-world systems.
-
-📧 hongyan.wang118@gmail.com  
+🔗 **[LinkedIn](https://www.linkedin.com/in/hongyan-wang18/)**
+📧 hongyan.wang118@gmail.com 
 📍 London, UK  
-🪪 UK work authorisation: Eligible to work in the UK **without** sponsorship
 
 ---
 
@@ -70,13 +69,24 @@ Loan default prediction using machine learning models and statistical evaluation
 
 ---
 
-## Selected Publications
+## Publications
 Full list: https://scholar.google.com
 
-- Finite element analysis of bio-inspired helicoid CFRPs under impact (ECCOMAS 2025)
-- Experimental characterisation of fibre-reinforced thermoplastics (Composites Part A, 2024)
-- CNN-assisted stress-strain prediction in polymers (Materials & Design, 2024)
-- Constitutive modelling of thermoplastics under forming conditions (Polymer, 2021)
+**Publications**
+[1] H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under open-hole tension and compression. The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composite. Vienna, Austria.
+[2] H. Wang, A. Sobestor, 2024, Modelling of Tomorrow -- First steps towards an automated
+cabling framework. Physical Workshop Decision Making & Optimization, Toulous, France. 
+[3] H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. Polymer, 2021. 228: p. 123939. https://doi.org/10.1016/j.polymer.2021.123939
+[4] H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. Composites Part A: Applied Science and Manufacturing 179 (2024): 108034. https://doi.org/10.1016/j.compositesa.2024.108034
+[5] H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Submitted to International Journal of Mechanical Sciences, 2023. Under review. Preprint preview: https://doi.org/10.31224/2340
+[6] Z. Ding, H. R. Attar, H. Wang, et al., Integrating Convolutional Neural Network and constitutive Model for Rapid Prediction of Stress-Strain Curves in Fibre Reinforced Polymers: A Generalisable Approach, Materials & Design, 241, 112849. https://doi.org/10.1016/j.matdes.2024.112849
+[7] Z. Ding, H. Wang, J. Luo, N. Li., A review on forming technologies of fibre metal laminates. International Journal of Lightweight Materials and Manufacture, 2021. 4(1): p. 110-126. https://doi.org/10.1016/j.ijlmm.2020.06.006
+[8] R.A. Brooks, H. Wang, Z. Ding, et al., A review on stamp forming of continuous fibre-reinforced thermoplastics. International Journal of Lightweight Materials and Manufacture, 2022. 5(3): p. 411-430. https://doi.org/10.1016/j.ijlmm.2022.05.001
+
+**Filed Patent**
+[1] Z. Ding, N. Li, H. Wang, et al, A method of forming metal alloys and fibre-reinforced polymers in one-shot stamping, 2024 (P79563GB, filed on December 2024).
+[2] H. Wang, N. Li, Z. Ding, et al., A novel process for forming carbon fibre reinforced polymer matrix composites (CF-PMCs) involving induction heating, 2024 (Disclosed to Imperial IPC team).
+
 
 ---
 
@@ -86,9 +96,11 @@ Full list: https://scholar.google.com
 **Algorithms:** optimisation, graph search (A*, Dijkstra), genetic algorithms, constraint modelling  
 **Modelling:** parameter inference, numerical simulation, validation against data  
 **Libraries:** NumPy, Pandas, SciPy, scikit-learn, NetworkX, Plotly, Dash  
-**Engineering Tools:** Abaqus, HPC workflows
+**Engineering Tools:** Rihno/Grasshopper, Abaqus, HPC workflows
 
 ---
 
 ## Interests
 Hiking • Swimming • Digital art • Classical music • Literature & theatre
+
+---
