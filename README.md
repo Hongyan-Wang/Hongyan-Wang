@@ -41,6 +41,7 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 <p align="center">
   <img src="University_of_Southampton_RA/figures/Demo-1.png" width="80%">
 </p>
+
 ➡️ [Detailed description](University_of_Southampton_RA/University_of_Southampton_RA.md)
 
 ---
@@ -68,6 +69,7 @@ Predictive modelling of material behaviour and manufacturing process optimisatio
 <p align="center">
   <img src="Imperial_College_London_phd/figures/subroutine_structure.png" width="70%">
 </p>
+
 ➡️ [Detailed description](Imperial_College_London_phd/phd.md)
 
 ---
