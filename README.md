@@ -4,15 +4,15 @@ Computational modelling and optimisation researcher specialising in mathematical
 
 📧 hongyan.wang118@gmail.com  
 📍 London, UK  
-🪪 UK work authorisation: Eligible to work in the UK without sponsorship
+🪪 UK work authorisation: Eligible to work in the UK **without** sponsorship
 
 ---
 
 ## Professional Experience
 
 ### Imperial College London | Short Brothers (Spirit AeroSystems, ATI Project) & Airbus
-🏙️ London, UK
-👩‍⚕️ Research Associate, Simulation & Computational Modelling Engineer
+🏙️ London, UK  
+👩‍⚕️ Research Associate, Simulation & Computational Modelling Engineer  
 🗓️ Nov. 2024 – present
 
 
@@ -25,9 +25,9 @@ Nonlinear material modelling, automated validation pipelines, and inverse struct
 ---
 
 ### University of Southampton | Airbus 
-🏙️ Southampton, UK
-👩‍⚕️ Research Associate, Digital Design Engineer
-🗓️ Nov. 2023 – Nov. 2024
+🏙️ Southampton, UK      
+👩‍⚕️ Research Associate, Digital Design Engineer      
+🗓️ Nov. 2023 – Nov. 2024        
 
 Graph-based routing and combinatorial optimisation for automated aircraft cable layout.
 
@@ -45,8 +45,12 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
+**Flowchart**
 ![Flowchart](Imperial_College_London_phd/figures/Phd_FlowChart2.png)
-
+**Model Structure**
+![ModelStructure](Imperial_College_London_phd/figures/CFRP_model_structure.png)
+**Subroutine Structure**
+![SubroutineStructure](Imperial_College_London_phd/figures/subroutine_structure.png)
 ➡️ [Detailed description](Imperial_College_London_phd/phd.md)
 
 ---
