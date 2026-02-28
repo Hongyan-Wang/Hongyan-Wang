@@ -1,6 +1,6 @@
 # Yvonne Wang (Hongyan Wang)
 
-Computational modelling and optimisation researcher specialising in mathematical modelling, validation, and constrained search for complex real-world systems. <br>
+Computational materials modelling and simulation researcher with extensive experience in translating physical systems into mathematical models and developing high-performance numerical frameworks. <br>
 🔗 **[LinkedIn](https://www.linkedin.com/in/hongyan-wang18/)** <br>
 📧 hongyan.wang118@gmail.com <br>
 📍 London, UK <br>
@@ -15,7 +15,7 @@ Computational modelling and optimisation researcher specialising in mathematical
 🗓️ Nov. 2024 – present
 
 
-Nonlinear material modelling, automated validation pipelines, and inverse structural design.
+Nonlinear material modelling, automated validation pipelines, and bio-inspried structural design & FEA validation.
 
 <p align="center">
   <img src="Imperial_College_London_RA/figures/flowchart.png" alt="Imperial RA Flowchart" width="60%">
@@ -114,6 +114,10 @@ Loan default prediction using machine learning models and statistical evaluation
 ---
 
 ## Interests
-Hiking • Swimming • Digital art • Classical music • Literature & theatre
+Hiking • Swimming • [Digital art](Documents/DigitalArtSample.png) • Classical music • Literature & theatre
 
 ---
+
+## CV download
+
+[Here is my up-to-date cv download link](Documents/Yvonne_Wang_CV_2026.pdf)

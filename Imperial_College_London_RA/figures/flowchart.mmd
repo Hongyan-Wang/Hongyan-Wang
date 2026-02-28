@@ -1,0 +1,71 @@
+flowchart TB
+
+    subgraph SG1["Solver Architecture and Optimisation"]
+        direction TB
+        A1["Legacy Fortran Codebase (UMAT / UVARM / USDFLD)"]
+        subgraph SG1a["Newly Developed Solver"]
+            direction TB
+            A2["VUMAT for Explicit Dynamics (LaRC05 Damage Model)"]
+            A4["Memory Pre-allocation and Profiling"]
+            A5["60% Wall-Clock Time Reduction"]
+            A2 --> A4 --> A5
+        end
+        A3["Modular Refactoring - Decouple physics from solver interface"]
+        A1 --> A3
+        A3 --> A2
+    end
+
+    subgraph SG2["Automated V and V Pipeline"]
+        direction TB
+        B0["Python Automation Layer - Abaqus scripting, mesh generation, parameter updates"]
+        B1["Tier 1 - Integration Point - Single-point stress-strain drivers"]
+        B2["Tier 2 - Unit / Element - Fibre tension, transverse, shear"]
+        B3["Tier 3 - System / Coupon - OHT, OHC, UT, UC"]
+        B4["Unified CLI - Single-pass execution and benchmark analysis"]
+        B0 --> B1 --> B2 --> B3 --> B4
+    end
+
+    subgraph SG3["Bio-Inspired Design and Simulation"]
+        direction TB
+        subgraph SG3a["Layup Design"]
+            direction TB
+            C1["Bio-inspired Composite Layup Design (Helicoidal and Double-Double)"]
+            C6["D-Matrix Stiffness Matching - Multi-level constraint optimisation"]
+            C1 --> C6
+        end
+        subgraph SG3b["Coupon-Level FEA"]
+            direction TB
+            C7["Python: Abaqus input generation and automated mesh"]
+            C8["High-Fidelity FEA - Buckling, LVI, CAI"]
+            C9["HPC Deployment"]
+            C10["Python: Post-processing and experimental comparison"]
+            C2["FEA Model Development - Abaqus Explicit"]
+            C7 --> C2
+            C8 --> C2
+            C9 --> C2
+            C10 --> C2
+        end
+        subgraph SG3c["Large-Scale FEA"]
+            direction TB
+            C7b["Python: Abaqus input generation and automated mesh"]
+            C9b["HPC Deployment"]
+            C10b["Python: Post-processing and experimental comparison"]
+            C5["Wingbox sub-structures and stringer run-outs"]
+            C7b --> C5
+            C9b --> C5
+            C10b --> C5
+        end
+        C3["Experimental Validation - Mechanical Testing and DIC"]
+        C4["Microstructural Optimisation"]
+        C6 --> C7
+        C6 --> C7b
+        C2 --> C3 --> C4
+        C4 --> C1
+        C5 --> C3
+    end
+
+    A2 -- "Plug-and-play subroutines" --> C7
+    A2 -- "Plug-and-play subroutines" --> C7b
+    C2 -- "Validation configs" --> B0
+    C5 -- "Validation configs" --> B0
+    B4 -- "Validated solver" --> C2
