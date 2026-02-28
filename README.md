@@ -32,10 +32,12 @@ Nonlinear material modelling, automated validation pipelines, and bio-inspried s
 
 Graph-based routing and combinatorial optimisation for automated aircraft cable layout.
 
+**Flowchart of the CablePy development**
 <p align="center">
-  <img src="University_of_Southampton_RA/figures/CablePy_FlowChart.png" alt="CablePy Flowchart" width="65%">
+  <img src="University_of_Southampton_RA/figures/CablePy_FlowChart.png" alt="CablePy Flowchart" width="80%">
 </p>
 
+**Demo of the product**
 <p align="center">
   <img src="University_of_Southampton_RA/figures/Demo-1.png" alt="Cable Routing Demo" width="80%">
 </p>
@@ -52,16 +54,21 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
+1. The flowchart showing the stamp forming process and involved mechanism 
+   
 <p align="center">
-  <img src="Imperial_College_London_phd/figures/Phd_FlowChart2.png" alt="PhD Research Flowchart" width="60%">
+  <img src="Imperial_College_London_phd/figures/Phd_FlowChart2.png" alt="PhD Research Flowchart" width="70%">
 </p>
 
+2. The major material constitutive model for CFRPs considering **multi-scale** physical mechnism and **stochastic features**. 
+    
 <p align="center">
-  <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" alt="CFRP Model Structure" width="65%">
+  <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" alt="CFRP Model Structure" width="60%">
 </p>
 
+3. The flowchart for Fortran VUMAT subroutine  
 <p align="center">
-  <img src="Imperial_College_London_phd/figures/subroutine_structure.png" alt="Subroutine Structure" width="70%">
+  <img src="Imperial_College_London_phd/figures/subroutine_structure.png" alt="Subroutine Structure" width="80%">
 </p>
 
 ➡️ [Detailed description](Imperial_College_London_phd/phd.md)
