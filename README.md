@@ -54,9 +54,9 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 
 ### Imperial College London — PhD Research
-🏙️ London, UK
-👩‍⚕️ Postgraduate Researcher in Computational Modelling of Material Processing
-🗓️ Oct. 2018 – July 2023
+🏙️ London, UK  
+👩‍⚕️ Postgraduate Researcher in Computational Modelling of Material Processing   
+🗓️ Oct. 2018 – July 2023  
 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
@@ -90,9 +90,11 @@ Loan default prediction using machine learning models and statistical evaluation
 
 ## Education
 
-**Ph.D. Mechanical Engineering** — Imperial College London (2018–2023)  
-**M.Sc. Materials Science & Engineering** — Shanghai Jiao Tong University (Top 10%)  
-**B.Sc. Materials Science & Engineering** — Huazhong University of Science and Technology (Top 2%)
+| Degree                               | Institution                                   | Location   | Dates                 | Notes                     |
+| ------------------------------------ | --------------------------------------------- | ---------- | --------------------- | ------------------------- |
+| Ph.D. Mechanical Engineering         | Imperial College London                       | London, UK | Oct. 2018 – Jul. 2023 | Full scholarship (~£140K) |
+| M.Sc. Material Science & Engineering | Shanghai Jiao Tong University                 | China      | Oct. 2015 – Mar. 2018 | GPA: 3.7/4.0 (top 10%)    |
+| B.Sc. Material Science & Engineering | Huazhong University of Science and Technology | China      | Oct. 2011 – Jun. 2015 | GPA: 3.9/4.0 (top 2%)     |
 
 ---
 
@@ -126,11 +128,11 @@ Loan default prediction using machine learning models and statistical evaluation
 
 ---
 
-## Interests
-Hiking • Swimming • [Digital art](Documents/DigitalArtSample.png) • Classical music • Literature & theatre
-
----
-
 ## CV download
 
 [Here is my up-to-date cv download link](Documents/Yvonne_Wang_CV_2026.pdf)
+
+---
+
+## Interests
+Hiking • Swimming • [Digital art](Documents/DigitalArtSample.png) • Classical music • Literature & theatre
