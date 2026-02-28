@@ -15,8 +15,8 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 ## Algorithmic Pathfinding & Graph Theory
 
-- **3D High-Density Discretisation:** Discretised complex 3D aeronautical geometries using Rhino/Grasshopper (3D modelling) into mathematical graphs using Python and NetworkX. Managed a high-resolution search space, integrating orthogonal, face-diagonal, and cubic-diagonal vectors to maximize path precision.
-- **Multi-Objective Spatial Optimization:** Programmed a custom search engine utilising A* and Dijkstra algorithms to minimize a global cost function. The logic optimised for minimal cable weight (path length) while simultaneously navigating dense regulatory and structural constraints.
+- **3D High-Density Discretisation:** Discretised complex 3D aeronautical geometries using Rhino/Grasshopper (3D modelling) into mathematical graphs using Python and NetworkX. Managed a high-resolution search space, integrating orthogonal, face-diagonal, and cubic-diagonal vectors to maximise path precision.
+- **Multi-Objective Spatial Optimization:** Programmed a custom search engine utilising A* and Dijkstra algorithms to minimise a global cost function. The logic optimised for minimal cable weight (path length) while simultaneously navigating dense regulatory and structural constraints.
 - **NURBS-Based Geometric Synthesis:** Developed a novel algorithm utilising Non-Uniform Rational B-Splines (NURBS) to interpolate discrete paths into physically realistic 3D geometries. Integrated control laws to enforce outlet/inlet vector alignment and ensure strict adherence to minimum bending radius constraints based on cable physical properties.
 
 ## Combinatorial Optimisation & Constraint Logic
@@ -28,8 +28,8 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 ## Visualization & Interactive Systems
 
-- **Full-Stack Optimization Dashboard:** Developed a web-based interactive interface using Plotly and Dash to visualize 3D graph networks and pipe-rendered cable paths. Built a "click-and-trace" mechanism for real-time inspection of bundle thickness and cable metadata.
-- **Human-in-the-Loop Sensitivity Interface:** Created a parametric interface allowing users to manipulate optimisation weights (e.g., prioritizing harnessing vs. separation) and instantly visualize the impact on the global routing solution.
+- **Full-Stack Optimization Dashboard:** Developed a web-based interactive interface using Plotly and Dash to visualise 3D graph networks and pipe-rendered cable paths. Built a "click-and-trace" mechanism for real-time inspection of bundle thickness and cable metadata.
+- **Human-in-the-Loop Sensitivity Interface:** Created a parametric interface allowing users to manipulate optimisation weights (e.g., prioritizing harnessing vs. separation) and instantly visualise the impact on the global routing solution.
 
 <p align="center">
   <img src="figures/Demo-1.png" alt="Cable Routing Demo" width="80%">

@@ -1,3 +1,7 @@
+Hello, thank you for visiting my profile. Here is a brief introduction to my working experience.
+I will keep updating it — please feel free to get in touch if anything interests you.
+I am always happy to connect, discuss, and collaborate.
+
 # Yvonne Wang (Hongyan Wang)
 
 Computational materials modelling and simulation researcher with extensive experience in translating physical systems into mathematical models and developing high-performance numerical frameworks. <br>
@@ -15,7 +19,9 @@ Computational materials modelling and simulation researcher with extensive exper
 🗓️ Nov. 2024 – present
 
 
-Nonlinear material modelling, automated validation pipelines, and bio-inspried structural design & FEA validation.
+Nonlinear material modelling, automated validation pipelines, and bio-inspired structural design & FEA validation.
+
+**Flowchart of the project structure:**
 
 <p align="center">
   <img src="Imperial_College_London_RA/figures/flowchart.png" alt="Imperial RA Flowchart" width="90%">
@@ -54,19 +60,19 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
-1. The flowchart showing the stamp forming process and involved mechanism 
+1. Flowchart of the stamp-forming process and the mechanisms involved
    
 <p align="center">
   <img src="Imperial_College_London_phd/figures/Phd_FlowChart2.png" alt="PhD Research Flowchart" width="70%">
 </p>
 
-2. The major material constitutive model for CFRPs considering **multi-scale** physical mechnism and **stochastic features**. 
+2. Material constitutive model for CFRPs incorporating **multi-scale** physical mechanisms and **stochastic features**
     
 <p align="center">
   <img src="Imperial_College_London_phd/figures/CFRP_model_structure.png" alt="CFRP Model Structure" width="60%">
 </p>
 
-3. The flowchart for Fortran VUMAT subroutine  
+3. Flowchart of the Fortran VUMAT subroutine  
 <p align="center">
   <img src="Imperial_College_London_phd/figures/subroutine_structure.png" alt="Subroutine Structure" width="80%">
 </p>
@@ -95,7 +101,7 @@ Loan default prediction using machine learning models and statistical evaluation
 
 **Publications**
 1. H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under open-hole tension and compression. The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composite. Vienna, Austria.  
-2. H. Wang, A. Sobestor, 2024, Modelling of Tomorrow — First steps towards an automated cabling framework. Physical Workshop Decision Making & Optimization, Toulouse, France.     
+2. H. Wang, A. Sobester, 2024, Modelling of Tomorrow — First steps towards an automated cabling framework. Physical Workshop Decision Making & Optimization, Toulouse, France.     
 3. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. [DOI: 10.1016/j.polymer.2021.123939](https://doi.org/10.1016/j.polymer.2021.123939). 
 4. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. [DOI: 10.1016/j.compositesa.2024.108034](https://doi.org/10.1016/j.compositesa.2024.108034). 
 5. H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Submitted to *International Journal of Mechanical Sciences*, 2023. Under review. [Preprint: DOI 10.31224/2340](https://doi.org/10.31224/2340). 

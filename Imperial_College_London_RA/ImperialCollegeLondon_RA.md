@@ -5,7 +5,7 @@ Research Associate, Simulation & Computational Modelling Engineer
 London, UK  
 Nov. 2024 – present
 
-Nonlinear material modelling, automated validation pipelines, and inverse structural design for composite aerospace structures.
+Nonlinear material modelling, automated validation pipelines, and bio-inspired structural design for composite aerospace structures.
 
 <p align="center">
   <img src="figures/flowchart.png" alt="Imperial RA Flowchart" width="65%">
@@ -31,7 +31,7 @@ Nonlinear material modelling, automated validation pipelines, and inverse struct
 
 - **Bio-inspired Layup Optimisation:** Developed a Python-based optimisation script to identify "D-matrix" stiffness matching for bio-inspired Helicoidal and Double-Double (DD) composite architectures, utilising multi-level constraint satisfaction to match baseline structural invariants.
 - **Advanced Damage Modelling:** Conducted high-fidelity FEA using the LaRC05 damage model to simulate non-linear responses including buckling, Low-Velocity Impact (LVI), and Compression After Impact (CAI).
-- **Algorithmic Refinement:** Optimized simulation accuracy and stability by tuning mesh strategies, integration schemes, and hourglass control algorithms.
+- **Algorithmic Refinement:** Optimised simulation accuracy and stability by tuning mesh strategies, integration schemes, and hourglass control algorithms.
 - **Validated Performance Gains:** Demonstrated through correlated experimental and numerical data a **6% increment in mechanical properties** for novel helicoidal designs while maintaining strict weight and stability parity with industry baselines.
 - **Large-Scale Simulation Deployment:** Engineered automation scripts for the generation and submission of massive Abaqus input files (wingbox sub-structures and stringer run-outs) to High-Performance Computing (HPC) clusters.
 - **Project & Team Management:** Acted as the technical lead for the Imperial branch of the ATI project; managed cross-team communication, financial planning, and technical deliverables. Supervised two PhD candidates in algorithm development and computational mechanics.
