@@ -18,7 +18,7 @@ Computational materials modelling and simulation researcher with extensive exper
 Nonlinear material modelling, automated validation pipelines, and bio-inspried structural design & FEA validation.
 
 <p align="center">
-  <img src="Imperial_College_London_RA/figures/flowchart.png" alt="Imperial RA Flowchart" width="60%">
+  <img src="Imperial_College_London_RA/figures/flowchart.png" alt="Imperial RA Flowchart" width="90%">
 </p>
 
 ➡️ [Detailed description](Imperial_College_London_RA/ImperialCollegeLondon_RA.md)
