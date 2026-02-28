@@ -1,176 +1,41 @@
-# Imperial College London — Research Associate (Simulation & Computational Modelling)
-*Collaboration: Spirit AeroSystems & Airbus*  
-*Nov 2024 – Present*
+# Imperial College London — Research Associate
 
----
+**Industry Partners:** Short Brothers (Spirit AeroSystems, ATI Project) & Airbus  
+Research Associate, Simulation & Computational Modelling Engineer  
+London, UK  
+Nov. 2024 – present
 
-## Overview
-This project develops predictive simulation tools for composite aerospace structures.  
-The goal is to build reliable numerical models that can both reproduce experimental behaviour and guide structural design decisions.
+Nonlinear material modelling, automated validation pipelines, and inverse structural design for composite aerospace structures.
 
-The work spans three connected parts:
-1. Building a reusable simulation framework
-2. Validating models against physics and experiments
-3. Using the model to search for improved structural designs
-
-![Flowchart]
 <p align="center">
-  <img src="figures/flowchart.png" width="60%">
+  <img src="figures/flowchart.png" alt="Imperial RA Flowchart" width="65%">
 </p>
 
 ---
 
-## 1. Software Architecture & Numerical Framework
+## Software Architecture & Framework Development
 
-### Modular Solver Architecture
-A legacy research codebase consisted of independent Abaqus subroutines (UMAT, UVARM, USDFLD) with duplicated physics logic.
+- **Modularization of Legacy Solver Architecture:** Architected a modular library for Fortran-based finite element subroutines (UMAT, UVARM, USDFLD) and engineered a VUMAT subroutine for explicit dynamics. This structural overhaul decoupled core material physics (based on the LaRC05 damage model) from solver interfaces, establishing a "plug-and-play" environment that facilitates rapid feature prototyping and long-term code extensibility.
+- **Low-Level Memory & Computational Optimisation:** Performed deep-tier profiling and refactoring of the VUMAT subroutine's variable assignment and memory allocation logic. By implementing a memory pre-allocation strategy for homogeneous test cases, optimised the trade-off between memory overhead and CPU cycles, achieving a **60% reduction in simulation wall-clock time** compared to the legacy implementation.
 
-I redesigned the structure into a modular library and implemented a VUMAT for explicit dynamics.
+## Automated Verification & Validation (V&V)
 
-**Key idea:** separate *material physics* from *solver interface*
+- **Scripted FEA Pipeline:** Developed a Python-driven automation layer for Abaqus to handle complex model generation, including fibre-aligned mesh synthesis and dynamic parameter updates.
+- **Three-Tier Automated Testing Framework:** Engineered a robust Python testing pipeline to ensure algorithmic integrity across scales:
+  - **Integration Point Level:** Automated "single-point" test drivers to validate new constitutive features against theoretical stress-strain paths.
+  - **Unit/Element Level:** Automated single-element verification to audit material responses across primary loading modes (fibre/transverse tension, shear).
+  - **System/Coupon Level:** Automated validation against industry-standard physical benchmarks, including Open Hole Tension (OHT), Open Hole Compression (OHC), Uniform Tension (UT), and Uniform Compression (UC).
+  - Implemented a unified **Command-Line Interface (CLI)** that executes either the single or full testing suites in a single pass, performing automated analysis against benchmarks to maintain code integrity during development cycles.
 
+## Structural Design & Numerical Optimisation
 
-This enabled:
-- single-source implementation of material behaviour
-- easier feature extension
-- consistent behaviour across solvers
-
----
-
-### Performance Optimisation
-Profiling revealed most runtime occurred inside the integration-point update loop.
-
-Optimisations included:
-- memory pre-allocation
-- removal of repeated allocations
-- restructuring variable updates
-- reducing function call overhead
-
-**Result:** ~60% reduction in simulation runtime  
-(no change to underlying equations)
+- **Bio-inspired Layup Optimisation:** Developed a Python-based optimisation script to identify "D-matrix" stiffness matching for bio-inspired Helicoidal and Double-Double (DD) composite architectures, utilising multi-level constraint satisfaction to match baseline structural invariants.
+- **Advanced Damage Modelling:** Conducted high-fidelity FEA using the LaRC05 damage model to simulate non-linear responses including buckling, Low-Velocity Impact (LVI), and Compression After Impact (CAI).
+- **Algorithmic Refinement:** Optimized simulation accuracy and stability by tuning mesh strategies, integration schemes, and hourglass control algorithms.
+- **Validated Performance Gains:** Demonstrated through correlated experimental and numerical data a **6% increment in mechanical properties** for novel helicoidal designs while maintaining strict weight and stability parity with industry baselines.
+- **Large-Scale Simulation Deployment:** Engineered automation scripts for the generation and submission of massive Abaqus input files (wingbox sub-structures and stringer run-outs) to High-Performance Computing (HPC) clusters.
+- **Project & Team Management:** Acted as the technical lead for the Imperial branch of the ATI project; managed cross-team communication, financial planning, and technical deliverables. Supervised two PhD candidates in algorithm development and computational mechanics.
 
 ---
 
-## 2. Automated Verification & Validation
-
-To ensure model correctness, I developed an automated Python testing pipeline connected to Abaqus.
-
-### Automated FEA Pipeline
-- automatic model generation
-- fibre-aligned mesh construction
-- parameter injection
-- batch execution
-
----
-
-### Three-Tier Validation Strategy
-
-#### Integration-Point Level
-Verify theoretical constitutive behaviour along prescribed stress-strain paths.
-
-Purpose: confirm equations are implemented correctly.
-
-#### Element Level
-Single-element simulations under:
-- fibre tension
-- transverse tension
-- shear
-- compression
-
-Purpose: verify directional response and damage activation.
-
-#### Coupon Level
-Compare against experimental benchmarks:
-- OHT — Open Hole Tension
-- OHC — Open Hole Compression
-- UT — Uniform Tension
-- UC — Uniform Compression
-
-Purpose: confirm predictive capability.
-
----
-
-### Continuous Testing Interface
-A command-line interface executes:
-- single tests (for development)
-- full regression suite (for validation)
-
-The pipeline automatically compares results with stored benchmarks to detect:
-- numerical instability
-- unintended behavioural changes
-
----
-
-## 3. Structural Design & Numerical Optimisation
-
-### Bio-Inspired Laminate Design
-A constrained search was implemented to identify laminate configurations matching target stiffness (D-matrix) while improving strength.
-
-Explored architectures:
-- Helicoidal
-- Double-Double (DD)
-
-Constraint:
-> maintain baseline structural stiffness
-
-Method:
-- parameterised stacking sequence
-- constraint filtering
-- simulation validation
-
----
-
-### Damage Modelling & Simulation
-Using the LaRC05 damage model, simulations were performed for:
-
-- buckling
-- low-velocity impact (LVI)
-- compression after impact (CAI)
-
-Model parameters and numerical stability were tuned via:
-- mesh strategy
-- integration schemes
-- hourglass control
-
----
-
-### Validated Design Improvement
-Combined experimental and simulation results showed:
-
-**≈ 6% strength improvement**  
-while preserving weight and stability constraints
-
-This demonstrates predictive capability rather than post-hoc fitting.
-
----
-
-## 4. Large-Scale Simulation Deployment
-To run structural sub-component models:
-
-- generated Abaqus input files programmatically
-- automated HPC submission
-- batch post-processing
-
-Applied to:
-- wing-box substructures
-- stringer run-out models
-
----
-
-## 5. Project Responsibilities
-- technical lead (Imperial side)
-- coordinated academic–industry collaboration
-- supervised PhD researchers
-- maintained simulation framework integrity
-
----
-
-## Key Takeaways
-This work focuses on building models that are:
-
-- **physically valid** (verified against theory)
-- **predictive** (validated against experiments)
-- **usable** (automated and extensible)
-- **efficient** (optimised runtime)
-
-The resulting framework supports both engineering analysis and design exploration.
+[Back to main page](../README.md)
