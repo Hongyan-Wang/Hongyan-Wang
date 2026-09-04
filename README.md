@@ -135,4 +135,4 @@ Loan default prediction using machine learning models and statistical evaluation
 ---
 
 ## Interests
-Hiking • Swimming • [Digital art](Documents/DigitalArtSample.png) • Classical music • Literature & theatre
+Hiking • Swimming • Classical music • Literature & theatre
