@@ -90,11 +90,11 @@ Independent data science project supporting a new consumer lending product. Cond
 
 ## Education
 
-| Degree                               | Institution                                   | Location   | Dates                 | Notes                     |
-| ------------------------------------ | --------------------------------------------- | ---------- | --------------------- | ------------------------- |
-| Ph.D. Mechanical Engineering         | Imperial College London                       | London, UK | Oct. 2018 – Jul. 2023 | Full scholarship (~£140K) |
-| M.Sc. Material Science & Engineering | Shanghai Jiao Tong University                 | China      | Oct. 2015 – Mar. 2018 | GPA: 3.7/4.0 (top 10%)    |
-| B.Sc. Material Science & Engineering | Huazhong University of Science and Technology | China      | Oct. 2011 – Jun. 2015 | GPA: 3.9/4.0 (top 2%)     |
+| Degree                               | Institution                                   | Dates                 | Notes                     |
+| ------------------------------------ | --------------------------------------------- | --------------------- | ------------------------- |
+| Ph.D. Mechanical Engineering         | Imperial College London                       | Oct. 2018 – Jul. 2023 | Full scholarship (~£140K) |
+| M.Sc. Material Science & Engineering | Shanghai Jiao Tong University                 | Oct. 2015 – Mar. 2018 | GPA: 3.7/4.0 (top 10%)    |
+| B.Sc. Material Science & Engineering | Huazhong University of Science and Technology | Oct. 2011 – Jun. 2015 | GPA: 3.9/4.0 (top 2%)     |
 
 ---
 
@@ -104,7 +104,7 @@ Independent data science project supporting a new consumer lending product. Cond
 **Conferences & Symposia**
 1. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, From Impact to Residual Strength: Physics-based Failure Simulation as a Foundation for Composite Aircraft Design and Optimisation. Poster, *Accelerating the Aerospace Development Cycle: From Concept to Flight* symposium, Science Museum, London, UK.  
 2. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, Design and FEA of Bio-inspired Carbon Fibre-Reinforced Polymer (CFRP) Laminates for Improved Low-Velocity Impact (LVI) Damage Tolerance. The 22nd European Conference on Composite Materials (ECCM22). Oslo, Norway.  
-3. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, Finite Element Analysis of Low-Velocity Impact (LVI) Damage in Bio-inspired Helicoid CFRP Laminates for Thin- and Thick-Wall Structures. International Conference on Textile Composites (TexComp).  
+3. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, Finite Element Analysis of Low-Velocity Impact (LVI) Damage in Bio-inspired Helicoid CFRP Laminates for Thin- and Thick-Wall Structures. International Conference on Textile Composites (TexComp). Bristol, UK.
 4. H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under Low-Velocity Impact (LVI). The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composites. Vienna, Austria.  
 5. H. Wang, A. Sobester, 2024, Modelling of Tomorrow — First steps towards an automated cabling framework. Physical Workshop Decision Making & Optimization, Toulouse, France.     
 
@@ -125,10 +125,14 @@ Independent data science project supporting a new consumer lending product. Cond
 
 ## Skills
 
-**Programming & Software Engineering:** Python, Fortran, MATLAB, C/C++, Git, automated testing pipelines, CLI tooling  
+**Programming & Software Engineering:** Python, Fortran, MATLAB, C/C++, Git, automated testing pipelines, CLI tooling 
+
 **Quantitative Methods & Algorithms:** numerical optimisation, combinatorial optimisation (genetic algorithms, TSP), graph search (A*, Dijkstra), constraint modelling, stochastic and statistical modelling  
+
 **Machine Learning & Data Analysis:** predictive modelling (logistic regression, random forest, XGBoost), model evaluation (Gini/AUC), exploratory data analysis, parameter inference, validation against experimental/empirical data  
-**Libraries & Frameworks:** NumPy, Pandas, SciPy, scikit-learn, XGBoost, NetworkX, Plotly, Dash  
+
+**Libraries & Frameworks:** NumPy, Pandas, SciPy, scikit-learn, XGBoost, NetworkX, Plotly, Dash 
+
 **Engineering & Simulation Tools:** Abaqus (UMAT/VUMAT), Rhino/Grasshopper, HPC workflows
 
 ---
