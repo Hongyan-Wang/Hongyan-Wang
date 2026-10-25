@@ -1,6 +1,6 @@
 # Imperial College London — PhD Research
 
-👩‍⚕️ Postgraduate Researcher in Computational Modelling of Material Processing  
+💼 Postgraduate Researcher in Computational Modelling of Material Processing  
 📍 London, UK  
 🗓️ Oct. 2018 – Jul. 2023
 
@@ -17,7 +17,7 @@ Predictive modelling of material behaviour and manufacturing process optimisatio
 - **Bespoke Digital Image Correlation (DIC) Development:** Pioneered a DIC technique integrated with bespoke MATLAB image-processing algorithms to capture high-fidelity deformation data. This addressed the technical challenge of "unrecognizable excessive strain" in semicrystalline thermoplastics during solid-state deformation.
 - **Systematic Thermomechanical Analysis:** Conducted comprehensive uniaxial tensile and V-Notched Rail (VNR) shear testing on high-performance polymers (PA6 and PEEK) and carbon fibre reinforced thermoplastics (UD CF/PA6).
 - **Mechanism Identification:** Quantified the significant effects of temperature and adiabatic heating on elastic moduli, yield stresses, and strain-hardening behaviours, identifying non-negligible thermal softening during high-rate deformation.
-- **Error Correction Methodology:** Proposed and validated a two-step correction method for VNR shear tests, identifying rotation and non-uniformity factors as critical sources of error in characterizing material effective stress-strain properties.
+- **Error Correction Methodology:** Proposed and validated a two-step correction method for VNR shear tests, identifying rotation and non-uniformity factors as critical sources of error in characterising material effective stress-strain properties.
 
 ## Constitutive Modelling & Algorithm Development
 
@@ -33,7 +33,7 @@ Predictive modelling of material behaviour and manufacturing process optimisatio
 
 - **High-Performance Subroutine Coding:** Implemented complex constitutive laws into commercial Finite Element Analysis (FEA) software (ABAQUS) via custom-coded Fortran VUMAT subroutines.
 - **Predictive Defect Analysis:** Conducted numerical simulations for dome-shaped demonstrator components to analyse intra-ply deformation and predict potential manufacturing defects such as surface wrinkles and cracks.
-- **Process Optimisation:** Leveraged simulation data to identify optimal "forming windows," optimizing critical parameters including blank shape design, layer-blocking configurations, and forming temperatures.
+- **Process Optimisation:** Leveraged simulation data to identify optimal "forming windows," optimising critical parameters including blank shape design, layer-blocking configurations, and forming temperatures.
 
 <p align="center">
   <img src="figures/subroutine_structure.png" alt="Subroutine Structure" width="70%">

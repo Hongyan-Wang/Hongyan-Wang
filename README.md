@@ -1,10 +1,10 @@
-Hello, thank you for visiting my profile. Here is a brief introduction to my working experience.
-I will keep updating it — please feel free to get in touch if anything interests you.
-I am always happy to connect, discuss, and collaborate.
+Thank you for visiting my profile — below is a summary of my research, engineering, and data science experience.
+This page is updated regularly; please feel free to reach out if anything here is of interest.
+I'm always happy to connect, discuss, and collaborate.
 
 # Yvonne Wang (Hongyan Wang)
 
-Computational materials modelling and simulation researcher with extensive experience in translating physical systems into mathematical models and developing high-performance numerical frameworks. <br>
+Computational modelling researcher and algorithm developer with a strong quantitative and software engineering foundation, spanning physics-based simulation, numerical optimisation, statistical and machine-learning modelling, and high-performance data pipelines. <br>
 🔗 **[LinkedIn](https://www.linkedin.com/in/hongyan-wang18/)** <br>
 📧 hongyan.wang118@gmail.com <br>
 📍 London, UK <br>
@@ -15,7 +15,7 @@ Computational materials modelling and simulation researcher with extensive exper
 
 ### Imperial College London | Short Brothers (Spirit AeroSystems, ATI Project) & Airbus
 📍 London, UK  
-👩‍⚕️ Research Associate, Simulation & Computational Modelling Engineer  
+💼 Research Associate, Simulation & Computational Modelling Engineer  
 🗓️ Nov. 2024 – present
 
 
@@ -32,8 +32,8 @@ Nonlinear material modelling, automated validation pipelines, and bio-inspired s
 ---
 
 ### University of Southampton | Airbus 
-🏙️ Southampton, UK      
-👩‍⚕️ Research Associate, Digital Design Engineer      
+📍 Southampton, UK      
+💼 Research Fellow, Digital Design Engineer      
 🗓️ Nov. 2023 – Nov. 2024        
 
 Graph-based routing and combinatorial optimisation for automated aircraft cable layout.
@@ -54,9 +54,9 @@ Graph-based routing and combinatorial optimisation for automated aircraft cable 
 
 
 ### Imperial College London — PhD Research
-🏙️ London, UK  
-👩‍⚕️ Postgraduate Researcher in Computational Modelling of Material Processing   
-🗓️ Oct. 2018 – July 2023  
+📍 London, UK  
+💼 Postgraduate Researcher in Computational Modelling of Material Processing   
+🗓️ Oct. 2018 – Jul. 2023  
 
 Predictive modelling of material behaviour and manufacturing process optimisation validated experimentally.
 
@@ -81,8 +81,8 @@ Predictive modelling of material behaviour and manufacturing process optimisatio
 
 ---
 
-### Lloyds Banking Group — Credit Risk Data Science Project
-Loan default prediction using machine learning models and statistical evaluation.
+### Lloyds Banking Group — Credit Risk Data Science Challenge
+Independent data science project supporting a new consumer lending product. Conducted exploratory data analysis on an 18,000+ record loan dataset (income, affordability, and bankruptcy indicators), then built and benchmarked Logistic Regression, Random Forest, and XGBoost classifiers for default-risk prediction, evaluated by Gini coefficient (up to 0.79).
 
 ➡️ [View repository](https://github.com/Hongyan-Wang/LLoydsBankingGroup_CareerChallenge)
 
@@ -101,30 +101,35 @@ Loan default prediction using machine learning models and statistical evaluation
 ## Publications
 [Full list](https://scholar.google.com/citations?hl=en&user=eeg-D8QAAAAJ&view_op=list_works&authuser=1)
 
-**Publications**
-1. H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under open-hole tension and compression. The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composite. Vienna, Austria.  
-2. H. Wang, A. Sobester, 2024, Modelling of Tomorrow — First steps towards an automated cabling framework. Physical Workshop Decision Making & Optimization, Toulouse, France.     
-3. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. [DOI: 10.1016/j.polymer.2021.123939](https://doi.org/10.1016/j.polymer.2021.123939). 
-4. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. [DOI: 10.1016/j.compositesa.2024.108034](https://doi.org/10.1016/j.compositesa.2024.108034). 
-5. H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Submitted to *International Journal of Mechanical Sciences*, 2023. Under review. [Preprint: DOI 10.31224/2340](https://doi.org/10.31224/2340). 
-6. Z. Ding, H. R. Attar, H. Wang, et al., Integrating Convolutional Neural Network and constitutive Model for Rapid Prediction of Stress-Strain Curves in Fibre Reinforced Polymers: A Generalisable Approach. *Materials & Design*, 241, 112849. [DOI: 10.1016/j.matdes.2024.112849](https://doi.org/10.1016/j.matdes.2024.112849). 
-7. Z. Ding, H. Wang, J. Luo, N. Li., A review on forming technologies of fibre metal laminates. *International Journal of Lightweight Materials and Manufacture*, 2021. 4(1): p. 110-126. [DOI: 10.1016/j.ijlmm.2020.06.006](https://doi.org/10.1016/j.ijlmm.2020.06.006).
-8. R.A. Brooks, H. Wang, Z. Ding, et al., A review on stamp forming of continuous fibre-reinforced thermoplastics. *International Journal of Lightweight Materials and Manufacture*, 2022. 5(3): p. 411-430. [DOI: 10.1016/j.ijlmm.2022.05.001](https://doi.org/10.1016/j.ijlmm.2022.05.001). 
+**Conferences & Symposia**
+1. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, From Impact to Residual Strength: Physics-based Failure Simulation as a Foundation for Composite Aircraft Design and Optimisation. Poster, *Accelerating the Aerospace Development Cycle: From Concept to Flight* symposium, Science Museum, London, UK.  
+2. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, Design and FEA of Bio-inspired Carbon Fibre-Reinforced Polymer (CFRP) Laminates for Improved Low-Velocity Impact (LVI) Damage Tolerance. The 22nd European Conference on Composite Materials (ECCM22). Oslo, Norway.  
+3. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, Finite Element Analysis of Low-Velocity Impact (LVI) Damage in Bio-inspired Helicoid CFRP Laminates for Thin- and Thick-Wall Structures. International Conference on Textile Composites (TexComp).  
+4. H. Wang, E. Kazemi, S. T. Pinho, 2025, Finite element analysis (FEA) of bio-inspired helicoid carbon fibre-reinforced polymers (CFRPs) under Low-Velocity Impact (LVI). The 10th ECCOMAS Thematic Conference on the Mechanical Response of Composites. Vienna, Austria.  
+5. H. Wang, A. Sobester, 2024, Modelling of Tomorrow — First steps towards an automated cabling framework. Physical Workshop Decision Making & Optimization, Toulouse, France.     
 
-**Filed Patent**
+**Journal Articles**
+1. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. [DOI: 10.1016/j.polymer.2021.123939](https://doi.org/10.1016/j.polymer.2021.123939). 
+2. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. [DOI: 10.1016/j.compositesa.2024.108034](https://doi.org/10.1016/j.compositesa.2024.108034). 
+3. H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Submitted to *International Journal of Mechanical Sciences*, 2023. Under review. [Preprint: DOI 10.31224/2340](https://doi.org/10.31224/2340). 
+4. Z. Ding, H. R. Attar, H. Wang, et al., Integrating Convolutional Neural Network and constitutive Model for Rapid Prediction of Stress-Strain Curves in Fibre Reinforced Polymers: A Generalisable Approach. *Materials & Design*, 241, 112849. [DOI: 10.1016/j.matdes.2024.112849](https://doi.org/10.1016/j.matdes.2024.112849). 
+5. Z. Ding, H. Wang, J. Luo, N. Li., A review on forming technologies of fibre metal laminates. *International Journal of Lightweight Materials and Manufacture*, 2021. 4(1): p. 110-126. [DOI: 10.1016/j.ijlmm.2020.06.006](https://doi.org/10.1016/j.ijlmm.2020.06.006).
+6. R.A. Brooks, H. Wang, Z. Ding, et al., A review on stamp forming of continuous fibre-reinforced thermoplastics. *International Journal of Lightweight Materials and Manufacture*, 2022. 5(3): p. 411-430. [DOI: 10.1016/j.ijlmm.2022.05.001](https://doi.org/10.1016/j.ijlmm.2022.05.001). 
+
+**Patents**
 1. Z. Ding, N. Li, H. Wang, et al, A method of forming metal alloys and fibre-reinforced polymers in one-shot stamping, 2024 (P79563GB, filed on December 2024).  
-2. H. Wang, N. Li, Z. Ding, et al., A novel process for forming carbon fibre reinforced polymer matrix composites (CF-PMCs) involving induction heating, 2024 (Disclosed to Imperial IPC team).  
+2. H. Wang, N. Li, Z. Ding, et al., A novel process for forming carbon fibre reinforced polymer matrix composites (CF-PMCs) involving induction heating (application in progress with the Imperial IPC team).  
 
 
 ---
 
 ## Skills
 
-**Programming:** Python, Fortran, MATLAB, C/C++  
-**Algorithms:** optimisation, graph search (A*, Dijkstra), genetic algorithms, constraint modelling  
-**Modelling:** parameter inference, numerical simulation, validation against data  
-**Libraries:** NumPy, Pandas, SciPy, scikit-learn, NetworkX, Plotly, Dash  
-**Engineering Tools:** Rhino/Grasshopper, Abaqus, HPC workflows
+**Programming & Software Engineering:** Python, Fortran, MATLAB, C/C++, Git, automated testing pipelines, CLI tooling  
+**Quantitative Methods & Algorithms:** numerical optimisation, combinatorial optimisation (genetic algorithms, TSP), graph search (A*, Dijkstra), constraint modelling, stochastic and statistical modelling  
+**Machine Learning & Data Analysis:** predictive modelling (logistic regression, random forest, XGBoost), model evaluation (Gini/AUC), exploratory data analysis, parameter inference, validation against experimental/empirical data  
+**Libraries & Frameworks:** NumPy, Pandas, SciPy, scikit-learn, XGBoost, NetworkX, Plotly, Dash  
+**Engineering & Simulation Tools:** Abaqus (UMAT/VUMAT), Rhino/Grasshopper, HPC workflows
 
 ---
 

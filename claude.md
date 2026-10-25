@@ -134,3 +134,50 @@ Created Mermaid source for the Imperial RA flowchart with the following features
 - No issues found — file is clean.
 
 ---
+
+## Session 4 — 25 Aug 2026
+
+### Scope
+Professional-standard polish pass across README.md and all three detail pages, with emphasis on surfacing quantitative/coding ability (Python, algorithms, ML, statistics) for career transition into quantitative finance roles, while keeping the page coherent for the primary materials/mechanical engineering audience.
+
+### Issues Found
+- Job title mismatch: README listed the Southampton role as "Research Associate", the detail page as "Research Fellow" — confirmed with user as **Research Fellow**.
+- Role/date lines used 👩‍⚕️ (health-worker emoji) as a job-title icon — semantically wrong.
+- Location icon inconsistent (📍 vs 🏙️) across sections.
+- Lloyds Banking Group project was a single vague sentence with no technical detail, despite being the most quant-finance-relevant item on the page.
+- Skills section led with generic categories rather than surfacing quantitative/ML skills.
+- Remaining American spellings ("optimizing", "characterizing", "prioritizing", "Modularization", "Optimization", "Visualization") inconsistent with British spelling used elsewhere.
+- Back-link formatting inconsistent (arrow vs no arrow) across detail pages.
+- "July" vs "Jul." date abbreviation inconsistent between README and PhD detail page.
+
+### Changes Made
+
+#### README.md
+- Fixed Southampton job title to "Research Fellow" (confirmed with user).
+- Replaced 👩‍⚕️ with 💼 for all job-title lines; standardised location icon to 📍.
+- Rewrote opening intro and tagline to foreground quantitative/algorithmic/ML strengths alongside physics-based simulation background.
+- Expanded the Lloyds Banking Group entry with real technical detail (fetched from the linked repo: 18k+ record dataset, EDA, Logistic Regression/Random Forest/XGBoost benchmarking, Gini coefficient up to 0.79).
+- Restructured Skills section into five categories, leading with Programming, Quantitative Methods & Algorithms, and Machine Learning & Data Analysis (previously Engineering Tools led).
+- Fixed "July" → "Jul." for date consistency; fixed remaining American spellings in publication/section text (not touching the verbatim conference title).
+
+#### Imperial_College_London_phd/phd.md, ImperialCollegeLondon_RA.md, University_of_Southampton_RA.md
+- Standardised 💼/📍/🗓️ icon usage on role metadata lines.
+- Fixed American spellings: "optimizing" → "optimising", "characterizing" → "characterising", "prioritizing" → "prioritising", "Modularization" → "Modularisation", "Multi-Objective Spatial Optimization" → "...Optimisation", "Visualization & Interactive Systems" → "Visualisation...", "Full-Stack Optimization Dashboard" → "...Optimisation Dashboard".
+- Standardised back-link formatting to "⬅ Back to main page" across all three files.
+
+---
+
+## Session 5 — 25 Oct 2026
+
+### Scope
+Update the publications section of README.md with 2026 conference and symposium outputs (details confirmed by the user).
+
+### Changes Made
+
+#### README.md
+- Split **Publications** into **Conferences & Symposia** and **Journal Articles**.
+- Added: Science Museum symposium poster (Oct 2026), ECCM22 Oslo paper (2026), TexComp paper. All three: H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh.
+- Fixed the 10th ECCOMAS (Vienna, 2025) entry: the topic is low-velocity impact (LVI), not open-hole tension/compression. Also corrected "Composite" → "Composites" in the conference name.
+- Renamed **Filed Patent** → **Patents**; marked the induction-heating patent as an application in progress.
+
+---

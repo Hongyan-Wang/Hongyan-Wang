@@ -1,9 +1,9 @@
 # Imperial College London — Research Associate
 
 **Industry Partners:** Short Brothers (Spirit AeroSystems, ATI Project) & Airbus  
-Research Associate, Simulation & Computational Modelling Engineer  
-London, UK  
-Nov. 2024 – present
+💼 Research Associate, Simulation & Computational Modelling Engineer  
+📍 London, UK  
+🗓️ Nov. 2024 – present
 
 Nonlinear material modelling, automated validation pipelines, and bio-inspired structural design for composite aerospace structures.
 
@@ -15,7 +15,7 @@ Nonlinear material modelling, automated validation pipelines, and bio-inspired s
 
 ## Software Architecture & Framework Development
 
-- **Modularization of Legacy Solver Architecture:** Architected a modular library for Fortran-based finite element subroutines (UMAT, UVARM, USDFLD) and engineered a VUMAT subroutine for explicit dynamics. This structural overhaul decoupled core material physics (based on the LaRC05 damage model) from solver interfaces, establishing a "plug-and-play" environment that facilitates rapid feature prototyping and long-term code extensibility.
+- **Modularisation of Legacy Solver Architecture:** Architected a modular library for Fortran-based finite element subroutines (UMAT, UVARM, USDFLD) and engineered a VUMAT subroutine for explicit dynamics. This structural overhaul decoupled core material physics (based on the LaRC05 damage model) from solver interfaces, establishing a "plug-and-play" environment that facilitates rapid feature prototyping and long-term code extensibility.
 - **Low-Level Memory & Computational Optimisation:** Performed deep-tier profiling and refactoring of the VUMAT subroutine's variable assignment and memory allocation logic. By implementing a memory pre-allocation strategy for homogeneous test cases, optimised the trade-off between memory overhead and CPU cycles, achieving a **60% reduction in simulation wall-clock time** compared to the legacy implementation.
 
 ## Automated Verification & Validation (V&V)
@@ -38,4 +38,4 @@ Nonlinear material modelling, automated validation pipelines, and bio-inspired s
 
 ---
 
-[Back to main page](../README.md)
+[⬅ Back to main page](../README.md)
