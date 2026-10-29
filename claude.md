@@ -181,3 +181,18 @@ Update the publications section of README.md with 2026 conference and symposium 
 - Renamed **Filed Patent** → **Patents**; marked the induction-heating patent as an application in progress.
 
 ---
+
+## Session 6 — 29 Oct 2026
+
+### Scope
+Rewrite the Imperial RA detail page from the user's own reflection notes, and add a short research-vision section.
+
+### Changes Made
+
+#### Imperial_College_London_RA/ImperialCollegeLondon_RA.md
+- Merged "what I built" and "problem-solving skills" into eight sections ordered by how a simulation becomes trusted: damage modelling → reliable large models → validation and error diagnosis → solver software → automated V&V → pipeline and HPC → laminate design → leadership.
+- Added worked examples supplied by the user: element distortion checks, the noodle-region time-increment problem, CAI stiffness vs. machine compliance, imperfection seeding for CAI strength, and multi-fidelity bounding of the perforation result.
+- Title changed to "Research Associate, Simulation Engineer" (user's wording); UT/UC now "unnotched" tension/compression.
+- Added a three-bullet **Research Vision** section (accuracy, speed, interpretability), from the user's ResearchVisions note.
+
+---
