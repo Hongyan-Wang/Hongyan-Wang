@@ -111,14 +111,15 @@ Independent data science project supporting a new consumer lending product. Cond
 **Journal Articles**
 1. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. [DOI: 10.1016/j.polymer.2021.123939](https://doi.org/10.1016/j.polymer.2021.123939). 
 2. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. [DOI: 10.1016/j.compositesa.2024.108034](https://doi.org/10.1016/j.compositesa.2024.108034). 
-3. H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Submitted to *International Journal of Mechanical Sciences*, 2023. Under review. [Preprint: DOI 10.31224/2340](https://doi.org/10.31224/2340). 
+3. H. Wang, Z. Ding, Z. Shao, H. Liu, N. Li, Error analysis of stress-strain characterisation using V-Notched Rail shear test for sheet materials subject to large simple shear deformation. Preprint, *engrXiv*, 2023. [DOI: 10.31224/2340](https://doi.org/10.31224/2340). 
 4. Z. Ding, H. R. Attar, H. Wang, et al., Integrating Convolutional Neural Network and constitutive Model for Rapid Prediction of Stress-Strain Curves in Fibre Reinforced Polymers: A Generalisable Approach. *Materials & Design*, 241, 112849. [DOI: 10.1016/j.matdes.2024.112849](https://doi.org/10.1016/j.matdes.2024.112849). 
 5. Z. Ding, H. Wang, J. Luo, N. Li., A review on forming technologies of fibre metal laminates. *International Journal of Lightweight Materials and Manufacture*, 2021. 4(1): p. 110-126. [DOI: 10.1016/j.ijlmm.2020.06.006](https://doi.org/10.1016/j.ijlmm.2020.06.006).
 6. R.A. Brooks, H. Wang, Z. Ding, et al., A review on stamp forming of continuous fibre-reinforced thermoplastics. *International Journal of Lightweight Materials and Manufacture*, 2022. 5(3): p. 411-430. [DOI: 10.1016/j.ijlmm.2022.05.001](https://doi.org/10.1016/j.ijlmm.2022.05.001). 
+7. Z. Ding, H. Wang, C. Gao, N. Li, A novel one-shot forming technology for ultra-high strength multi-material structures: Process design, simulation and proof of concept. *Composites Part A: Applied Science and Manufacturing* 210 (2026): 110105. [DOI: 10.1016/j.compositesa.2026.110105](https://doi.org/10.1016/j.compositesa.2026.110105).
+8. H. Wang, R. Zhang, H. Zhang, Q. Hu, J. Chen, Novel strategies to reduce the springback for double-sided incremental forming. *The International Journal of Advanced Manufacturing Technology* 96 (2018): 973–979. [DOI: 10.1007/s00170-018-1659-9](https://doi.org/10.1007/s00170-018-1659-9).
 
 **Patents**
-1. Z. Ding, N. Li, H. Wang, et al, A method of forming metal alloys and fibre-reinforced polymers in one-shot stamping, 2024 (P79563GB, filed on December 2024).  
-2. H. Wang, N. Li, Z. Ding, et al., A novel process for forming carbon fibre reinforced polymer matrix composites (CF-PMCs) involving induction heating (application in progress with the Imperial IPC team).  
+1. N. Li, Z. Ding, H. Wang, C. Gao, Method of manufacturing multi-material structures. International patent application [WO 2026/132777 A1](https://patentscope.wipo.int/search/en/WO2026132777), published 25 June 2026 (priority GB, 17 December 2024).  
 
 
 ---
@@ -127,9 +128,9 @@ Independent data science project supporting a new consumer lending product. Cond
 
 **Programming & Software Engineering:** Python, Fortran, MATLAB, C/C++, Git, automated testing pipelines, CLI tooling 
 
-**Quantitative Methods & Algorithms:** numerical optimisation, combinatorial optimisation (genetic algorithms, TSP), graph search (A*, Dijkstra), constraint modelling, stochastic and statistical modelling  
+**Quantitative Methods & Algorithms:** numerical optimisation, parameter calibration, combinatorial optimisation (genetic algorithms, TSP), graph search (A*, Dijkstra), constraint modelling, stochastic and statistical modelling, Monte Carlo sampling, sensitivity analysis  
 
-**Machine Learning & Data Analysis:** predictive modelling (logistic regression, random forest, XGBoost), model evaluation (Gini/AUC), exploratory data analysis, parameter inference, validation against experimental/empirical data  
+**Machine Learning & Data Analysis:** CNN surrogate models for simulation, physics-informed regression, predictive modelling (logistic regression, random forest, XGBoost), cross-validation and model evaluation (leave-one-out, Gini/AUC), exploratory data analysis, validation against experimental data  
 
 **Libraries & Frameworks:** NumPy, Pandas, SciPy, scikit-learn, XGBoost, NetworkX, Plotly, Dash 
 
@@ -139,9 +140,14 @@ Independent data science project supporting a new consumer lending product. Cond
 
 ## CV download
 
-[Here is my up-to-date cv download link](Documents/Yvonne_Wang_CV_2026.pdf)
+[Here is my up-to-date cv download link](Documents/Yvonne_Wang_CV.pdf)
 
 ---
 
 ## Interests
-Hiking • Swimming • Classical music • Literature & theatre
+- Tech / Business developement; 
+- philosophy (would Effective altruism enough for the post-modern existential crisis)
+- Spy stories (who is the craziest across the history?)
+- Literature & theatre (can recite Checkhov's Seagull/ Three Sisters)
+- Digital design (samples here (Documents/DigitalArtSample.png))
+- Classical music & Opera 

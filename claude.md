@@ -196,3 +196,54 @@ Rewrite the Imperial RA detail page from the user's own reflection notes, and ad
 - Added a three-bullet **Research Vision** section (accuracy, speed, interpretability), from the user's ResearchVisions note.
 
 ---
+## Session 7 — 29 Oct 2026
+
+### Scope
+Make the detail pages more accurate and detailed, using new facts the user confirmed while tailoring a CV (QuantumBlack Labs application). The public pages stay general and are not tailored to any one role.
+
+### Changes Made
+
+#### Imperial_College_London_RA/ImperialCollegeLondon_RA.md
+- Removed the "technical lead" claim (user: an overstatement). Section 9 is now "Collaboration and Supervision".
+- Validation: added that early sub-element simulations changed the partners' test plan, and the interface (cohesive/friction) sensitivity study.
+- New Section 4, "Data-Driven Analysis of Simulation and Test Results": damage location vs. area (Spearman), the physics-informed normalised CAI regression with leave-one-out validation and small-data caveats, and the multi-fidelity comparison. Later sections renumbered.
+- Pipeline: added dashboard size (~115k damage frames) and the HPC/MPI scaling result (35.5 h → 9.6 h).
+
+#### Imperial_College_London_phd/phd.md
+- New section on the CNN surrogate (Materials & Design 2024): 10,000 RVE dataset, TPCF/SSIM, 9-fold CV, ~3% MAPE, generalisation via the microstructure-factored constitutive model.
+- Constitutive modelling: added adiabatic heating (thermo-mechanical coupling) and the 36-parameter MSE calibration with manual refinement.
+
+#### README.md
+- Skills: added parameter calibration, Monte Carlo sampling, sensitivity analysis, CNN surrogate models, physics-informed regression and cross-validation.
+
+---
+## Session 8 — 30 Oct 2026
+
+### Scope
+Add the user's experimental work to the PhD page and bring the publication list up to date, from the user's answers and their papers in `Documents/Publications/`.
+
+### Changes Made
+
+#### Imperial_College_London_phd/phd.md
+- New **Experimental Techniques** section covering:
+  - thermo-mechanical tests: Instron 5584/3369/VHS, environmental chamber, 0.001–50 /s, titanium VNR rig;
+  - DIC and the VNR error correction;
+  - laminate lay-up and an in-house hot press, with C-scan;
+  - 250 kN stamp-forming trials with a calibrated furnace transfer, and tool design iterations;
+  - FML one-shot forming;
+  - optical microscopy and X-ray CT;
+  - M.Sc. incremental-forming work.
+
+#### README.md
+- Journal articles: added Ding et al. 2026 (*Composites Part A*, FML one-shot forming) and Wang et al. 2018 (*IJAMT*, DSIF springback). The VNR error-analysis paper is now listed as an engrXiv preprint (no longer under review).
+- Removed the induction-heating patent; the user has dropped it.
+
+---
+## Session 9 — 31 Oct 2026
+
+### Changes Made
+
+#### README.md
+- Patent updated from the UK filing (P79563GB) to the published PCT application: N. Li, Z. Ding, H. Wang, C. Gao, "Method of manufacturing multi-material structures", WO 2026/132777 A1, published 25 June 2026 (priority GB, 17 Dec 2024). Details taken from the WIPO publication in `Documents/Publications/`.
+
+---
