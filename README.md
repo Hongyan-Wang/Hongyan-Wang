@@ -9,6 +9,15 @@ Computational modelling researcher and algorithm developer with a strong quantit
 📧 hongyan.wang118@gmail.com <br>
 📍 London, UK <br>
 
+<p align="center">
+  💼 <a href="#professional-experience"><b>Experience</b></a> &nbsp;·&nbsp;
+  🎓 <a href="#education"><b>Education</b></a> &nbsp;·&nbsp;
+  📚 <a href="#publications"><b>Publications</b></a> &nbsp;·&nbsp;
+  🛠️ <a href="#skills"><b>Skills</b></a> &nbsp;·&nbsp;
+  📄 <a href="#cv-download"><b>CV</b></a> &nbsp;·&nbsp;
+  🎭 <a href="#beyond-work"><b>Beyond Work</b></a>
+</p>
+
 ---
 
 ## Professional Experience
@@ -144,7 +153,7 @@ Independent data science project supporting a new consumer lending product. Cond
 
 ---
 
-## Interests
+## Beyond Work
 - Tech / Business developement; 
 - philosophy (would Effective altruism enough for the post-modern existential crisis)
 - Spy stories (who is the **craziest** across the history?)
