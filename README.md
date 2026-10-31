@@ -147,7 +147,7 @@ Independent data science project supporting a new consumer lending product. Cond
 ## Interests
 - Tech / Business developement; 
 - philosophy (would Effective altruism enough for the post-modern existential crisis)
-- Spy stories (who is the craziest across the history?)
+- Spy stories (who is the **craziest** across the history?)
 - Literature & theatre (can recite Checkhov's Seagull/ Three Sisters)
 - Digital design ([samples here](Documents/DigitalArtSample.png))
 - Classical music & Opera 
