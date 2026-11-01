@@ -247,3 +247,17 @@ Add the user's experimental work to the PhD page and bring the publication list 
 - Patent updated from the UK filing (P79563GB) to the published PCT application: N. Li, Z. Ding, H. Wang, C. Gao, "Method of manufacturing multi-material structures", WO 2026/132777 A1, published 25 June 2026 (priority GB, 17 Dec 2024). Details taken from the WIPO publication in `Documents/Publications/`.
 
 ---
+
+#### README.md (navigation)
+- Added a centred, dot-separated navigation row with icons under the contact lines (Experience, Education, Publications, Skills, CV, Beyond Work), linking to each section's anchor.
+- Renamed the "Interests" section to "Beyond Work".
+
+#### README.md (thesis)
+- Added a **PhD Thesis** subsection under Publications: H. Wang (2023), "Fundamental studies on solid-state stamp forming of unidirectional fibre reinforced thermoplastics for automobile components", PhD thesis, Dyson School of Design Engineering, Imperial College London, DOI 10.25560/126526 (details from the Spiral record supplied by the user).
+
+#### README.md (download links)
+- Added "File Download" links to the PDFs in `Documents/Publications/` for all 9 journal articles, the ECCM22 and TexComp papers, the patent and the thesis. Paths are URL-encoded (spaces, brackets, commas, colon) so they resolve on GitHub; the user's original escaped link on article 1 was replaced in the same format.
+- Fixed the duplicated list number "7. 8." in Journal Articles.
+
+#### README.md (navigation, option B)
+- Replaced the text navigation row with shields.io badge buttons (navy, CV in red). The Publications badge links to `#publications-google-scholar`, because the heading now contains the Google Scholar link.
