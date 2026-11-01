@@ -261,3 +261,18 @@ Add the user's experimental work to the PhD page and bring the publication list 
 
 #### README.md (navigation, option B)
 - Replaced the text navigation row with shields.io badge buttons (navy, CV in red). The Publications badge links to `#publications-google-scholar`, because the heading now contains the Google Scholar link.
+
+---
+## Session 10 — 1 Nov 2026 (branch `design-preview`)
+
+### Scope
+Redesign of README.md layout as a starting point; content unchanged apart from the items noted. Not merged into main.
+
+### Changes Made
+- Hero block: centred name, tagline, logo badges (LinkedIn, Google Scholar, Email, CV), one-sentence summary; removed the opening "Thank you for visiting" paragraph. Banner placeholder left as an HTML comment.
+- "At a glance" row: 7 peer-reviewed journal papers, 1 PCT patent application, 22% CAI strength gain, 60% faster solver.
+- Experience as an image-plus-text table (one figure per role, 3 highlights, "Read more →"); remaining figures moved into a collapsible "More figures" block. Lloyds kept as a short entry.
+- Publications: Selected (3) shown open; each group collapsible with counts; DOI/PDF links turned into small badges. Heading is now plain "Publications" (anchor `#publications`).
+- CV download section folded into the hero CV badge; nav row no longer has a CV button.
+- Beyond Work as a two-column table; fixed "developement", "Checkhov's" and added the missing "be" in the philosophy line.
+- "↑ back to top" link after each section.
