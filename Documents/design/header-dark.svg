@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Yvonne Wang (Hongyan Wang): Computational Mechanics, Composites, Simulation and Machine Learning">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#79b8ff"/><stop offset="1" stop-color="#56d4c0"/></linearGradient></defs>
+<text x="450" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#e6edf3">Yvonne Wang <tspan fill="#8b949e" font-size="26">(Hongyan Wang)</tspan></text>
+<rect x="330" y="80" width="240" height="3" rx="1.5" fill="url(#g)"/>
+<text x="450" y="118" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" letter-spacing="2.5" fill="#8b949e">COMPUTATIONAL MECHANICS  ·  COMPOSITES  ·  SIMULATION &amp; MACHINE LEARNING</text>
+</svg>

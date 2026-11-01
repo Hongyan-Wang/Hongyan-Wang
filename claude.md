@@ -276,3 +276,5 @@ Redesign of README.md layout as a starting point; content unchanged apart from t
 - CV download section folded into the hero CV badge; nav row no longer has a CV button.
 - Beyond Work as a two-column table; fixed "developement", "Checkhov's" and added the missing "be" in the philosophy line.
 - "↑ back to top" link after each section.
+- Follow-up: replaced the "at a glance" numbers with a keyword cloud (`Documents/design/keywords-{light,dark}.svg`), colour-coded into Simulation & mechanics / Data, ML & optimisation / Tools & experiments, aimed at simulation-with-AI and quant roles.
+- Replaced the plain h1 title with a typeset header SVG (`Documents/design/header-{light,dark}.svg`: serif name, gradient rule, spaced small-caps tagline). Both images switch with GitHub's light/dark theme via `<picture>`.

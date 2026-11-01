@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" font-family="-apple-system, &#x27;Segoe UI&#x27;, &#x27;Helvetica Neue&#x27;, Helvetica, Arial, sans-serif" role="img" aria-label="Skills keyword cloud">
+<rect x="88.0" y="14.9" width="255.2" height="36.1" rx="18.1" fill="#79b8ff" fill-opacity="0.09" stroke="#79b8ff" stroke-opacity="0.45"/>
+<text x="215.6" y="33.0" fill="#79b8ff" font-size="19" font-weight="600" text-anchor="middle" dominant-baseline="central">Finite Element Analysis</text>
+<rect x="353.2" y="14.9" width="199.3" height="36.1" rx="18.1" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="452.8" y="33.0" fill="#56d4c0" font-size="19" font-weight="600" text-anchor="middle" dominant-baseline="central">Machine Learning</text>
+<rect x="562.5" y="14.9" width="249.5" height="36.1" rx="18.1" fill="#79b8ff" fill-opacity="0.09" stroke="#79b8ff" stroke-opacity="0.45"/>
+<text x="687.2" y="33.0" fill="#79b8ff" font-size="19" font-weight="600" text-anchor="middle" dominant-baseline="central">Constitutive Modelling</text>
+<rect x="73.6" y="58.8" width="243.3" height="29.4" rx="14.7" fill="#79b8ff" fill-opacity="0.09" stroke="#79b8ff" stroke-opacity="0.45"/>
+<text x="195.3" y="73.5" fill="#79b8ff" font-size="15.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Composite Damage &amp; Failure</text>
+<rect x="327.0" y="58.8" width="207.4" height="29.4" rx="14.7" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="430.7" y="73.5" fill="#56d4c0" font-size="15.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Numerical Optimisation</text>
+<rect x="544.4" y="58.8" width="190.2" height="29.4" rx="14.7" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="639.4" y="73.5" fill="#56d4c0" font-size="15.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Statistical Modelling</text>
+<rect x="744.5" y="58.8" width="81.8" height="29.4" rx="14.7" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="785.5" y="73.5" fill="#b1bac4" font-size="15.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Python</text>
+<rect x="77.3" y="95.7" width="130.1" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="142.4" y="108.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">CNN Surrogates</text>
+<rect x="217.5" y="95.7" width="236.4" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="335.6" y="108.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Graph Algorithms · A*, Dijkstra</text>
+<rect x="463.8" y="95.7" width="153.5" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="540.6" y="108.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Genetic Algorithms</text>
+<rect x="627.3" y="95.7" width="106.2" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="680.5" y="108.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Monte Carlo</text>
+<rect x="743.6" y="95.7" width="79.1" height="25.6" rx="12.8" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="783.1" y="108.5" fill="#b1bac4" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Fortran</text>
+<rect x="59.1" y="128.7" width="169.0" height="25.6" rx="12.8" fill="#79b8ff" fill-opacity="0.09" stroke="#79b8ff" stroke-opacity="0.45"/>
+<text x="143.6" y="141.5" fill="#79b8ff" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Multi-scale Modelling</text>
+<rect x="238.1" y="128.7" width="189.8" height="25.6" rx="12.8" fill="#79b8ff" fill-opacity="0.09" stroke="#79b8ff" stroke-opacity="0.45"/>
+<text x="333.0" y="141.5" fill="#79b8ff" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Verification &amp; Validation</text>
+<rect x="437.9" y="128.7" width="177.0" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="526.4" y="141.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Parameter Calibration</text>
+<rect x="624.9" y="128.7" width="158.2" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="704.0" y="141.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Sensitivity Analysis</text>
+<rect x="793.1" y="128.7" width="47.8" height="25.6" rx="12.8" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="817.0" y="141.5" fill="#b1bac4" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">HPC</text>
+<rect x="84.8" y="161.7" width="164.7" height="25.6" rx="12.8" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="167.2" y="174.5" fill="#b1bac4" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Abaqus UMAT / VUMAT</text>
+<rect x="259.5" y="161.7" width="228.7" height="25.6" rx="12.8" fill="#56d4c0" fill-opacity="0.09" stroke="#56d4c0" stroke-opacity="0.45"/>
+<text x="373.9" y="174.5" fill="#56d4c0" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Regression &amp; Cross-validation</text>
+<rect x="498.2" y="161.7" width="188.2" height="25.6" rx="12.8" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="592.3" y="174.5" fill="#b1bac4" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Experimental Mechanics</text>
+<rect x="696.4" y="161.7" width="118.8" height="25.6" rx="12.8" fill="#b1bac4" fill-opacity="0.09" stroke="#b1bac4" stroke-opacity="0.45"/>
+<text x="755.8" y="174.5" fill="#b1bac4" font-size="13.5" font-weight="500" text-anchor="middle" dominant-baseline="central">Data Pipelines</text>
+<circle cx="192.3" cy="204.0" r="5" fill="#79b8ff"/>
+<text x="203.3" y="204.0" fill="#8b949e" font-size="12" dominant-baseline="central">Simulation &amp; mechanics</text>
+<circle cx="381.3" cy="204.0" r="5" fill="#56d4c0"/>
+<text x="392.3" y="204.0" fill="#8b949e" font-size="12" dominant-baseline="central">Data, ML &amp; optimisation</text>
+<circle cx="573.9" cy="204.0" r="5" fill="#b1bac4"/>
+<text x="584.9" y="204.0" fill="#8b949e" font-size="12" dominant-baseline="central">Tools &amp; experiments</text>
+</svg>

@@ -4,12 +4,14 @@
 <p align="center"><img src="Documents/banner.png" alt="banner" width="100%"></p>
 -->
 
-<h1 align="center">Yvonne Wang (Hongyan Wang)</h1>
-
 <p align="center">
-  <b>Computational Mechanics · Composites · Simulation &amp; Machine Learning</b><br>
-  Research Associate at Imperial College London · London, UK
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Documents/design/header-dark.svg">
+    <img src="Documents/design/header-light.svg" alt="Yvonne Wang (Hongyan Wang): Computational Mechanics · Composites · Simulation & Machine Learning" width="100%">
+  </picture>
 </p>
+
+<p align="center"><sub>Research Associate at Imperial College London · London, UK</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hongyan-wang18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,13 +24,12 @@
 I build physics-based simulations of how materials and structures deform, get damaged and fail, and make them fast and trustworthy enough to drive engineering decisions, from Fortran material models to Python pipelines, HPC and ML surrogates.
 </p>
 
-<div align="center">
-
-| **7** | **1** | **22%** | **60%** |
-|:---:|:---:|:---:|:---:|
-| peer-reviewed journal papers | patent application (PCT) | higher CAI strength of bio-inspired laminates | faster composite failure solver |
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Documents/design/keywords-dark.svg">
+    <img src="Documents/design/keywords-light.svg" alt="Keywords: finite element analysis, machine learning, constitutive modelling, composite damage and failure, numerical optimisation, statistical modelling, Python, CNN surrogates, graph algorithms, genetic algorithms, Monte Carlo, Fortran, multi-scale modelling, verification and validation, parameter calibration, sensitivity analysis, HPC, Abaqus UMAT/VUMAT, regression and cross-validation, experimental mechanics, data pipelines" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <a href="#professional-experience"><img src="https://img.shields.io/badge/Experience-1f3a5f?style=for-the-badge" alt="Experience"></a>
