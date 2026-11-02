@@ -285,3 +285,5 @@ Redesign of README.md layout as a starting point; content unchanged apart from t
 - Experience cards: replaced the Imperial RA flowchart with `Imperial_College_London_RA/figures/ICRA_preview.png` and the PhD flowchart with `Imperial_College_London_phd/figures/IC_phd_preview.png` (both made by Yvonne).
 - Removed the one-sentence self-introduction under the hero badges.
 - Merged `design-preview` into `main` and pushed.
+- Follow-up: role titles in the Experience table are now `<h3>` headings; every `<details>` toggle (More figures, Conferences & Symposia, Journal Articles, Patents, PhD Thesis) uses a navy/teal for-the-badge summary with its count and a "click to expand" hint; "Selected" became a "Selected publications" heading.
+- Yvonne's edits included: Southampton card figure switched to `Demo-2.png`, Beyond Work table re-aligned, updated `ICRA_preview.png` and `IC_phd_preview.png`.

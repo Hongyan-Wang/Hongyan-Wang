@@ -43,7 +43,7 @@
 <tr>
 <td width="42%"><img src="Imperial_College_London_RA/figures/ICRA_preview.png" alt="Bio-inspired laminate design, impact FE model and test results, experiment vs. numerical" width="100%"></td>
 <td>
-<b>Research Associate, Simulation &amp; Computational Modelling Engineer</b><br>
+<h3>Research Associate, Simulation &amp; Computational Modelling Engineer</h3>
 Imperial College London · Short Brothers (Spirit AeroSystems, ATI project) &amp; Airbus<br>
 <sub>📍 London, UK · 🗓️ Nov. 2024 – present</sub>
 <ul>
@@ -55,9 +55,9 @@ Imperial College London · Short Brothers (Spirit AeroSystems, ATI project) &amp
 </td>
 </tr>
 <tr>
-<td width="42%"><img src="University_of_Southampton_RA/figures/Demo-1.png" alt="Cable routing demo" width="100%"></td>
+<td width="42%"><img src="University_of_Southampton_RA/figures/Demo-2.png" alt="Cable routing demo" width="100%"></td>
 <td>
-<b>Research Fellow, Digital Design Engineer</b><br>
+<h3>Research Fellow, Digital Design Engineer</h3>
 University of Southampton · Airbus<br>
 <sub>📍 Southampton, UK · 🗓️ Nov. 2023 – Nov. 2024</sub>
 <ul>
@@ -71,7 +71,7 @@ University of Southampton · Airbus<br>
 <tr>
 <td width="42%"><img src="Imperial_College_London_phd/figures/IC_phd_preview.png" alt="Stamp-formed CF/PA6 dome: experiment vs. FE prediction, with dome height, part length and wrinkle location errors" width="100%"></td>
 <td>
-<b>PhD Researcher, Computational Modelling of Material Processing</b><br>
+<h3>PhD Researcher, Computational Modelling of Material Processing</h3>
 Imperial College London<br>
 <sub>📍 London, UK · 🗓️ Oct. 2018 – Jul. 2023</sub>
 <ul>
@@ -85,7 +85,7 @@ Imperial College London<br>
 </table>
 
 <details>
-<summary><b>More figures</b></summary>
+<summary>&nbsp;<img src="https://img.shields.io/badge/More_figures-3-0f766e?style=for-the-badge&labelColor=1f3a5f" alt="More figures (3)" align="absmiddle"> &nbsp;<sub>click to expand</sub></summary>
 
 <br>
 
@@ -123,13 +123,13 @@ Exploratory analysis of an 18,000+ record loan dataset; Logistic Regression, Ran
 
 <a href="https://scholar.google.com/citations?hl=en&user=eeg-D8QAAAAJ&view_op=list_works"><img src="https://img.shields.io/badge/Google_Scholar-full_list-4285F4?style=flat-square" alt="Google_Scholar-full_list"></a>
 
-**Selected**
+### Selected publications
 1. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. <a href="https://doi.org/10.1016/j.compositesa.2024.108034"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/%5BJournalArticle%201%5DWang%20et%20al.%202024%2C%20Constitutive%20model%20of%20CFRPs.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 2. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. <a href="https://doi.org/10.1016/j.polymer.2021.123939"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/%5BJournalArticle%202%5DWang%20et%20al.%2C%202021%2C%20Consitutive%20model%20of%20polymers.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 3. Z. Ding, H. R. Attar, H. Wang, et al., Integrating Convolutional Neural Network and constitutive Model for Rapid Prediction of Stress-Strain Curves in Fibre Reinforced Polymers: A Generalisable Approach. *Materials & Design*, 241, 112849. <a href="https://doi.org/10.1016/j.matdes.2024.112849"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/%5BJournalArticle%205%5DDing%20et%20al.%2C%202024%2C%20CNN%20on%20constitutive%20models.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 
 <details>
-<summary><b>Conferences & Symposia (5)</b></summary>
+<summary>&nbsp;<img src="https://img.shields.io/badge/Conferences_%26_Symposia-5-0f766e?style=for-the-badge&labelColor=1f3a5f" alt="Conferences & Symposia (5)" align="absmiddle"> &nbsp;<sub>click to expand</sub></summary>
 
 1. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, From Impact to Residual Strength: Physics-based Failure Simulation as a Foundation for Composite Aircraft Design and Optimisation. Poster, *Accelerating the Aerospace Development Cycle: From Concept to Flight* symposium, Science Museum, London, UK.
 2. H. Wang, E. Kazemi, S. T. Pinho, A. Passariello, L. Mencattelli, O. Walsh, 2026, Design and FEA of Bio-inspired Carbon Fibre-Reinforced Polymer (CFRP) Laminates for Improved Low-Velocity Impact (LVI) Damage Tolerance. The 22nd European Conference on Composite Materials (ECCM22). Oslo, Norway. <a href="Documents/Publications/%5BConference%201%5Deccm.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
@@ -140,7 +140,7 @@ Exploratory analysis of an 18,000+ record loan dataset; Logistic Regression, Ran
 </details>
 
 <details>
-<summary><b>Journal Articles (9)</b></summary>
+<summary>&nbsp;<img src="https://img.shields.io/badge/Journal_Articles-9-0f766e?style=for-the-badge&labelColor=1f3a5f" alt="Journal Articles (9)" align="absmiddle"> &nbsp;<sub>click to expand</sub></summary>
 
 1. H. Wang, Z. Ding, X. Chen, H. Liu, N. Li, Experimental characterisation and constitutive modelling of the intra-ply tensile and shear properties of unidirectional fibre reinforced thermoplastics (UD FRTPs) under solid-state stamp forming conditions. *Composites Part A: Applied Science and Manufacturing* 179 (2024): 108034. <a href="https://doi.org/10.1016/j.compositesa.2024.108034"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/%5BJournalArticle%201%5DWang%20et%20al.%202024%2C%20Constitutive%20model%20of%20CFRPs.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 2. H. Wang, H. Liu, Z. Ding, N. Li, Experimental and constitutive modelling studies of semicrystalline thermoplastics under solid-state stamp forming conditions. *Polymer*, 2021. 228: p. 123939. <a href="https://doi.org/10.1016/j.polymer.2021.123939"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/%5BJournalArticle%202%5DWang%20et%20al.%2C%202021%2C%20Consitutive%20model%20of%20polymers.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
@@ -155,14 +155,14 @@ Exploratory analysis of an 18,000+ record loan dataset; Logistic Regression, Ran
 </details>
 
 <details>
-<summary><b>Patents (1)</b></summary>
+<summary>&nbsp;<img src="https://img.shields.io/badge/Patents-1-0f766e?style=for-the-badge&labelColor=1f3a5f" alt="Patents (1)" align="absmiddle"> &nbsp;<sub>click to expand</sub></summary>
 
 1. N. Li, Z. Ding, H. Wang, C. Gao, Method of manufacturing multi-material structures. International patent application [WO 2026/132777 A1](https://patentscope.wipo.int/search/en/WO2026132777), published 25 June 2026 (priority GB, 17 December 2024). <a href="Documents/Publications/%5BPatent%201%5D%20WO2026132777-A1.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 
 </details>
 
 <details>
-<summary><b>PhD Thesis (1)</b></summary>
+<summary>&nbsp;<img src="https://img.shields.io/badge/PhD_Thesis-1-0f766e?style=for-the-badge&labelColor=1f3a5f" alt="PhD Thesis (1)" align="absmiddle"> &nbsp;<sub>click to expand</sub></summary>
 
 1. H. Wang, 2023, Fundamental studies on solid-state stamp forming of unidirectional fibre reinforced thermoplastics for automobile components. PhD thesis, Dyson School of Design Engineering, Imperial College London. Supervisors: N. Li, P. Childs, J. Lin. <a href="https://doi.org/10.25560/126526"><img src="https://img.shields.io/badge/DOI-555?style=flat-square" alt="DOI"></a> <a href="Documents/Publications/Wang-H-2023-PhD-Thesis.pdf"><img src="https://img.shields.io/badge/PDF-b31b1b?style=flat-square" alt="PDF"></a>
 
@@ -190,10 +190,10 @@ Exploratory analysis of an 18,000+ record loan dataset; Logistic Regression, Ran
 
 ## Beyond Work
 
-| | |
-|---|---|
-| 💡 Tech and business development | 🎭 Literature and theatre (can recite Chekhov's *The Seagull* and *Three Sisters*) |
-| 🤔 Philosophy (would Effective Altruism be enough for the post-modern existential crisis?) | 🎨 Digital design ([samples](Documents/DigitalArtSample.png)) |
-| 🕵️ Spy stories (who is the **craziest** in history?) | 🎻 Classical music and opera |
+|                                                                                           |                                                                                   |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 💡 Tech and business development                                                           | 🎭 Literature and theatre (can recite Chekhov's *The Seagull* and *Three Sisters*) |
+| 🤔 Philosophy (would Effective Altruism be enough for the post-modern existential crisis?) | 🎨 Digital design ([samples](Documents/DigitalArtSample.png))                      |
+| 🕵️ Spy stories (who is the **craziest** in history?)                                       | 🎻 Classical music and opera                                                       |
 
 <p align="right"><a href="#top">↑ back to top</a></p>
