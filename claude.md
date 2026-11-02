@@ -278,3 +278,10 @@ Redesign of README.md layout as a starting point; content unchanged apart from t
 - "↑ back to top" link after each section.
 - Follow-up: replaced the "at a glance" numbers with a keyword cloud (`Documents/design/keywords-{light,dark}.svg`), colour-coded into Simulation & mechanics / Data, ML & optimisation / Tools & experiments, aimed at simulation-with-AI and quant roles.
 - Replaced the plain h1 title with a typeset header SVG (`Documents/design/header-{light,dark}.svg`: serif name, gradient rule, spaced small-caps tagline). Both images switch with GitHub's light/dark theme via `<picture>`.
+
+## Session 11 — 2 Nov 2026 (design-preview merged into main)
+
+### Changes Made
+- Experience cards: replaced the Imperial RA flowchart with `Imperial_College_London_RA/figures/ICRA_preview.png` and the PhD flowchart with `Imperial_College_London_phd/figures/IC_phd_preview.png` (both made by Yvonne).
+- Removed the one-sentence self-introduction under the hero badges.
+- Merged `design-preview` into `main` and pushed.

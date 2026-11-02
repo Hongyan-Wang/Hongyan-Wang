@@ -21,10 +21,6 @@
 </p>
 
 <p align="center">
-I build physics-based simulations of how materials and structures deform, get damaged and fail, and make them fast and trustworthy enough to drive engineering decisions, from Fortran material models to Python pipelines, HPC and ML surrogates.
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Documents/design/keywords-dark.svg">
     <img src="Documents/design/keywords-light.svg" alt="Keywords: finite element analysis, machine learning, constitutive modelling, composite damage and failure, numerical optimisation, statistical modelling, Python, CNN surrogates, graph algorithms, genetic algorithms, Monte Carlo, Fortran, multi-scale modelling, verification and validation, parameter calibration, sensitivity analysis, HPC, Abaqus UMAT/VUMAT, regression and cross-validation, experimental mechanics, data pipelines" width="100%">
@@ -45,7 +41,7 @@ I build physics-based simulations of how materials and structures deform, get da
 
 <table>
 <tr>
-<td width="42%"><img src="Imperial_College_London_RA/figures/flowchart.png" alt="Imperial RA project structure" width="100%"></td>
+<td width="42%"><img src="Imperial_College_London_RA/figures/ICRA_preview.png" alt="Bio-inspired laminate design, impact FE model and test results, experiment vs. numerical" width="100%"></td>
 <td>
 <b>Research Associate, Simulation &amp; Computational Modelling Engineer</b><br>
 Imperial College London · Short Brothers (Spirit AeroSystems, ATI project) &amp; Airbus<br>
@@ -73,7 +69,7 @@ University of Southampton · Airbus<br>
 </td>
 </tr>
 <tr>
-<td width="42%"><img src="Imperial_College_London_phd/figures/Phd_FlowChart2.png" alt="PhD research flowchart" width="100%"></td>
+<td width="42%"><img src="Imperial_College_London_phd/figures/IC_phd_preview.png" alt="Stamp-formed CF/PA6 dome: experiment vs. FE prediction, with dome height, part length and wrinkle location errors" width="100%"></td>
 <td>
 <b>PhD Researcher, Computational Modelling of Material Processing</b><br>
 Imperial College London<br>
